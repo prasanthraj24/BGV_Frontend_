@@ -103,7 +103,7 @@
     @apply text-base font-sans;
     font-family: "Public Sans", sans-serif;
     font-size: 18px;
-    font-style: normal;
-    font-weight: 500;
+    /* font-style: normal;
+    font-weight: 500; */
   }
 }
